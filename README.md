@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="./icon.svg" width="120" height="120" alt="Raven Flock mark" />
+</p>
 
-<!--
-**dust2ash7/dust2ash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Raven Flock</h1>
 
-Here are some ideas to get you started:
+<p align="center"><em>Quiet tools. A reminder you are not forgotten.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Luke 12:24
+
+> Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them. Of how much more value are you than the birds!
+
+The name is from that verse. Ravens do not farm or stockpile, and they are still fed. The point is not birds. The point is you. A loving God already cares for you — more than the flock He keeps in the air.
+
+### Mission
+
+Raven Flock exists to help people *know* they are cared for by a loving God — not as a slogan, as a lived reminder.
+
+We build small, honest things:
+
+- tools that lower noise instead of adding it
+- work a neighbor can actually use
+- no account walls when a quiet gift will do
+
+If a sit, a game, or a local-business fix gives someone one less thing to carry, that is the work.
+
+### In the shop
+
+- [Stillpoint](https://dust2ash7.github.io/Meditation-App/) — timed sits, box breathing, wind-down
+- [Mochi Drop](https://dust2ash7.github.io/mochi-drop/) — drop and merge mochi
+- [Buy me a coffee](https://www.buymeacoffee.com/nrsteward) — optional. Tips keep the flock building.
+
+<p align="center">
+  <img src="./icon.svg" width="28" height="28" alt="" />
+  <br />
+  <sub>Raven Flock · Vista / San Diego County</sub>
+</p>
