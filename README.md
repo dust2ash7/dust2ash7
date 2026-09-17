@@ -29,6 +29,8 @@ If a sit, a game, or a local-business fix gives someone one less thing to carry,
 ### In the shop
 
 - [Stillpoint](https://dust2ash7.github.io/Meditation-App/) — timed sits, box breathing, wind-down
+- [2048](https://dust2ash7.github.io/2048-puzzle/) — a calm, premium take on 2048
+- [Space Fish](https://dust2ash7.github.io/space-fish/) — a quiet neon space shooter
 - [Mochi Drop](https://dust2ash7.github.io/mochi-drop/) — drop and merge mochi
 - [Buy me a coffee](https://www.buymeacoffee.com/nrsteward) — optional. Tips keep the flock building.
 
