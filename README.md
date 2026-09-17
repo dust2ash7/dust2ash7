@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icon.svg" width="120" height="120" alt="Raven Flock mark" />
+  <img src="./brand/logo-a.png" width="220" alt="Raven Flock" />
 </p>
 
 <h1 align="center">Raven Flock</h1>
@@ -35,7 +35,7 @@ If a sit, a game, or a local-business fix gives someone one less thing to carry,
 - [Buy me a coffee](https://www.buymeacoffee.com/nrsteward) — optional. Tips keep the flock building.
 
 <p align="center">
-  <img src="./icon.svg" width="28" height="28" alt="" />
+  <img src="./brand/logo-a.png" width="72" alt="" />
   <br />
   <sub>Raven Flock · Vista / San Diego County</sub>
 </p>
