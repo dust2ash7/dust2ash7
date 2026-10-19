@@ -33,6 +33,9 @@ If a sit, a game, or a local-business fix gives someone one less thing to carry,
 - **[Labor Pulse](https://dust2ash7.github.io/raven-flock/#labor-pulse)** ([GitHub](https://github.com/dust2ash7/Labor-Pulse)) — quiet labor companion (not a medical device)
 - **Life Formed** — coming soon · Soft Mastery · [Play teaser](https://dune-palm-fire-heart.grok.me) · *Tend the Garden. Bring order to the chaos.*
 - **[Aerie](https://dust2ash7.github.io/Aerie/)** — a quiet room to make a song
+- **[Meridian Atlas](https://dust2ash7.github.io/meridian-atlas/)** ([GitHub](https://github.com/dust2ash7/meridian-atlas)) — calm field guide to points, channels, and Chinese herbs (educational only, not medical advice)
+- **[Microbiome Kitchen](https://dust2ash7.github.io/Microbiome-Kitchen/)** ([GitHub](https://github.com/dust2ash7/Microbiome-Kitchen)) — beginner whole-food meals for gut and brain
+- **[Sentinel Strength](https://dust2ash7.github.io/Sentinel-Strength/)** ([GitHub](https://github.com/dust2ash7/Sentinel-Strength)) — bodyweight training for physical jobs
 - [Buy me a coffee](https://www.buymeacoffee.com/nrsteward) — optional. Tips keep the flock building.
 
 ### Also playable
